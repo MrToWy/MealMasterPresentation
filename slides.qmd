@@ -168,7 +168,7 @@ Jährlich werden Tonnen von Lebensmitteln verschwendet, weil sie nicht rechtzeit
 ![](images/max.jpg)
 :::
 ::: {.fragment .fade-in-then-out fragment-index=2}
-![](images/kühlschrank.jpg)
+![](images/kuehlschrank.jpg)
 :::
 
 ::: {.fragment .fade-in-then-out fragment-index=4}
