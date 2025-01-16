@@ -48,11 +48,11 @@ Jährlich werden Tonnen von Lebensmitteln verschwendet, weil sie nicht rechtzeit
 
 . . .
 
-→**Mit nur wenigen Klicks einen Wochenplan erstellen.**
+→ Mit nur wenigen Klicks die Mahlzeiten für die Woche planen
 
 
 # Zielgruppe
-## Personen, die...
+## Personen, die …
 - wenig Kocherfahrung haben 
 - wenig Zeit haben
 
@@ -60,7 +60,7 @@ Jährlich werden Tonnen von Lebensmitteln verschwendet, weil sie nicht rechtzeit
 
 → junge Erwachsene (z.B. Studenten) und Berufstätige
 
-# Funktionen
+# Funktionalität
 
 ## Bilderkennung:  
 ::: {.columns}
@@ -98,8 +98,15 @@ Jährlich werden Tonnen von Lebensmitteln verschwendet, weil sie nicht rechtzeit
 ::: {.columns}
 ::: {.column width=75%}
 - MealPlan anhand von Zutaten generieren
-- Rezepte zum MealPlan generieren
-- anhand von Zutaten einen MealPlan inklusive Rezepte generieren
+
+::: {.fragment fragment-index=3}
+- Rezepte erstellen
+:::
+
+::: {.fragment fragment-index=4}
+- Einkaufsliste bereitstellen
+:::
+
 :::
 ::: {.column width=25%}
 ::: {.r-stack}
@@ -109,16 +116,67 @@ Jährlich werden Tonnen von Lebensmitteln verschwendet, weil sie nicht rechtzeit
 
 ![](images/recipes.png){.fragment fragment-index=3}
 
-![](images/meal-plan.png){.fragment fragment-index=4}
-
-![](images/shopping-list.png){.fragment fragment-index=5}
+![](images/shopping-list.png){.fragment fragment-index=4}
 
 :::
 :::
 :::
 
+# Designprinzipien
+## Nicht technische Prinzipien
+- Sichtbarkeit des Systemstatus
+- minimalistisches Design
+
+::: {.notes}
+- Info-Buttons für Erklärungen
+- Systemstatus durch Ladeanimation
+:::
 # Rollenspiel
 
+## Szenario {.smaller}
+### Wöchentliche Essensplanung bei vollem Terminkalender
+::: {.columns}
+::: {.column width=75%}
+::: {.r-stack}
+::: {.fragment .fade-in-then-out fragment-index=1}
+- Max
+- berufstätiger Vater
+- wenig Zeit für Einkäufe und Planungen
+:::
+::: {.fragment .fade-in-then-out fragment-index=2 style="text-align: left;"}
+- Max gibt seine persönlichen Daten ein.
+- Er macht ein Foto seines Kühlschranks.
+:::
+
+::: {.fragment .fade-in-then-out fragment-index=3}
+- Die App erstellt einen individuellen Wochenplan.
+- Sie berücksichtigt seine Allergie gegen Nüsse.
+- Max erhält Vorschläge für Mahlzeiten wie schnelle Gemüsepfanne mit Hähnchen.
+- bekommt er eine Einkaufsliste mit fehlende Zutaten
+:::
+
+::: {.fragment .fade-in-then-out fragment-index=4}
+→ Max spart Zeit und hat eine gesunde Ernährung für die ganze Woche.
+:::
+
+:::
+:::
+
+::: {.column width=25%}
+::: {.r-stack}
+::: {.fragment .fade-in-then-out fragment-index=1}
+![](images/max.jpg)
+:::
+::: {.fragment .fade-in-then-out fragment-index=2}
+![](images/kühlschrank.jpg)
+:::
+
+::: {.fragment .fade-in-then-out fragment-index=4}
+![](images/happy-max.jpg)
+:::
+:::
+:::
+:::
 # Danke für Eure Aufmerksamkeit! {.unlisted}
 # Gruppe 4 {.unlisted}
 - Tobias Wylega
@@ -127,6 +185,3 @@ Jährlich werden Tonnen von Lebensmitteln verschwendet, weil sie nicht rechtzeit
 - Sophie Fürhoff
 
 # Designprinzipien {.unlisted}
-
-::: footer
-:::
