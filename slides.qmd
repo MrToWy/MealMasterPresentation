@@ -183,5 +183,3 @@ Jährlich werden Tonnen von Lebensmitteln verschwendet, weil sie nicht rechtzeit
 - Paul Wenning
 - Tim Oliver Wolter
 - Sophie Fürhoff
-
-# Designprinzipien {.unlisted}
