@@ -1,22 +1,5 @@
 > [!TIP]
-> Full presentation with examples can be found [here](https://github.com/MrToWy/BachelorKolloquium/)
-
-# Setup your repository
-0. Consider giving this repository a star, so you can find it later in your starred repositories
-1. Click on "Create a new repository"
-
-   > [![Enable GitHub Pages][1]][1]
-
-  [1]: enable_gh_pages.png
-  
-
-2. Enable GitHub Pages in your repository settings
-
-   > [![Create new Repo][1]][1]
-
-  [1]: create_new_repo.png
-  
-3. Edit [slides.qmd](slides.qmd) to your needs
+> The app that is presented in this repo can be found [here](https://github.com/MrToWy/MealMaster)
 
 
 # Install Quarto
@@ -35,6 +18,6 @@ quarto preview slides.qmd
 ```
 
 ## Open Speaker View
-change to /slides-speaker.html (e.g. https://mrtowy.github.io/BachelorKolloquium/slides-speaker.html)
+change to /slides-speaker.html (e.g. https://mrtowy.github.io/MealMasterPresentation/slides-speaker.html)
 
 -> Speaker View gets synchronized to normal views
