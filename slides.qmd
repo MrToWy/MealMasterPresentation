@@ -16,7 +16,7 @@ format:
     chalkboard:
       buttons: false
     preview-links: auto
-    footer: Tobias Wylega - Paul Wenning - Tim Oliver Wolter - Sophie Fürhoff
+    footer: Tobias Wylega - Paul Wennin - Tim Oliver Wolter - Sophie Fürhoff
     theme: serif
     template-partials:
         - title-slide.html
@@ -191,6 +191,6 @@ Wöchentliche Essensplanung bei vollem Terminkalender
 # Danke für Eure Aufmerksamkeit! {.unlisted}
 # Gruppe 4 {.unlisted}
 - Tobias Wylega
-- Paul Wenning
+- Paul Wennin
 - Tim Oliver Wolter
 - Sophie Fürhoff
