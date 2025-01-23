@@ -132,61 +132,7 @@ Jährlich werden Tonnen von Lebensmitteln verschwendet, weil sie nicht rechtzeit
 - Systemstatus durch Ladeanimation
 :::
 # Rollenspiel
-Wöchentliche Essensplanung bei vollem Terminkalender
-
-## Szenario
-::: {.columns}
-::: {.column width=75%}
-- Max
-- berufstätiger Vater
-- wenig Zeit für Einkäufe und Planungen
-- ratlos was er kochen soll
-- schmeißt oft Lebensmittel weg
-:::
-
-::: {.column width=25%}
-![](images/max.jpg)
-:::
-:::
-
-## Szenario
-::: {.columns}
-::: {.column width=75%}
-- Max gibt seine persönlichen Daten ein.
-  - hat eine Nuss Allergie
-- Er macht ein Foto seines Kühlschranks.
-:::
-::: {.column width=25%}
-![](images/kuehlschrank.jpg)
-:::
-:::
-
-
-## Szenario
-::: {.columns}
-::: {.column width=75%}
-- Die App erstellt einen individuellen Wochenplan.
-- berücksichtigt seine Allergie gegen Nüsse
-- erhält Vorschläge für Mahlzeiten wie schnelles Brokkoli Kartoffelpüree
-- bekommt er eine Einkaufsliste mit fehlende Zutaten
-:::
-::: {.column width=25%}
-![](images/meal-plan.png)
-:::
-:::
-
-## Szenario
-::: {.columns}
-::: {.column width=70%}
-→ Max spart Zeit und hat eine gesunde Ernährung für die ganze Woche.
-
-→ Max hat mehr Zeit für seine Familie.
-
-:::
-::: {.column width=30%}
-![](images/happy-max.jpg)
-:::
-:::
+@Tobi
 
 # Danke für Eure Aufmerksamkeit! {.unlisted}
 # Gruppe 4 {.unlisted}
